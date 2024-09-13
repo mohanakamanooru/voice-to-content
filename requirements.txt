@@ -1,0 +1,10 @@
+streamlit
+transformers
+torchaudio
+SpeechRecognition  # For audio-to-text conversion
+pydub  # Audio file handling
+moviepy # video file handling
+google-cloud-speech
+google-cloud-vision
+google-cloud-aiplatform>=1.38
+pylint

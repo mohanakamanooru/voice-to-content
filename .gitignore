@@ -1,0 +1,15 @@
+
+.idea/aws.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+credentials/config.json
+credentials/*.json
+src/__pycache__/google_api_platform.cpython-310.pyc
+src/__pycache__/google_image_recognition.cpython-310.pyc
+src/__pycache__/google_speech_recognition.cpython-310.pyc
+src/__pycache__/styles.cpython-310.pyc
+voice-to-content.iml
+src/public-speaking-audio.mp3
+src/assets/public-speaking-audio.mp3
